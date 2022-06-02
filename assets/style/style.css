@@ -1,1 +1,28 @@
 /* BASIC STYLES HERE */
+:root{
+    --textcolor: lightcyan;
+}
+
+
+h2 {
+    text-transform: capitalize;
+    color: var(--textcolor)
+}
+
+h4 {
+    text-transform: capitalize;
+    color: var(--textcolor)
+    
+}
+
+h5{
+    color: var(--textcolor)
+
+}
+
+body{
+    background-image: url(../img/PB.jpg);
+    background-position: center;
+    background-size: 10%;
+    
+}
